@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NBadrinath
+- 👋 Hi, I’m Badrinath
 - 👀 I’m interested in ML-AI  
 - 🌱 I’m currently learning ML Agents (Reinforcement learning using unity)
 - 💞️ I’m looking to collaborate on Deep Learning 
