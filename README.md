@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Badrinath
+- 👨‍💼 I'm working as process analyst 
 - 👀 I’m interested in ML-AI  
 - 🌱 I’m currently learning ML Agents (Reinforcement learning using unity)
-- 💞️ I’m looking to collaborate on Deep Learning 
+- 💞️ I’m looking to collaborate on Deep Learning and robotics 
 - 📫 How to reach me nookalabadrinath@gmail.com
 
 <!---
